@@ -7,3 +7,7 @@
 # python code
 x=1+1
 print(x)
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
