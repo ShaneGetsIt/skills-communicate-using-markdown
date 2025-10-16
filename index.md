@@ -2,3 +2,8 @@
 ### Added my first markdown
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+# python code
+x=1+1
+print(x)
